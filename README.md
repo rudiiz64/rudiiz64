@@ -5,8 +5,10 @@ I will always pursue things to learn and ways to improve my skills to better the
 
 ### **_Skills_**
 > Hardware Design: PCB layout, Schematic design, Hardware bring-up, High-Speed circuits
+> 
 > Embedded Systems: Firmware, Drivers, HAL-based programming, Bare-metal programming, communication protocols (I2C, SPI, UART, ETH), wireless communication (Zigbee)
 
 ### **_Tools and Languages_**
 > KiCAD, Altium, STM32CubeIDE, uVision, MPLabX, LTSpice
+> 
 > C, Verilog, VHDL, Python, Markdown
